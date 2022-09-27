@@ -1,2 +1,4 @@
 safe: true
 remote_theme: wet-boew/jekyll-theme-gcweb
+plugins:
+- jekyll-remote-theme 
